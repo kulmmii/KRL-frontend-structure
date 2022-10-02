@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Map() {
   return (
-    <div className="Map">
-      <div> Kartta </div>
-    </div>
+    <nav className="Map">
+      <div> KARTTA TESTI </div>
+    </nav>
   );
 }
