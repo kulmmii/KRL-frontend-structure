@@ -1,2 +1,3 @@
 # KRL-frontend-structure
-Created with CodeSandbox
+
+New frontend design with the latest React!
