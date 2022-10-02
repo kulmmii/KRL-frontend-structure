@@ -1,12 +1,14 @@
 import "./styles.css";
-import TopNav from "./Components/TopNav"
+import TopNav from "./Components/TopNav";
+import Map from "./Components/Map";
+import BottomNav from "./Components/BottomNav";
 
 export default function App() {
   return (
-    <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+    <div>
       <TopNav />
+      <Map />
+      <BottomNav />
     </div>
   );
 }
